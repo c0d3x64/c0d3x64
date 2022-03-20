@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c0d3x64
+- 👋 Hi, I’m @c0d3x86-64
 - 👀 I’m interested in Malware Analysis
 - 🌱 I’m currently learning assembly
 - 💞️ I’m looking to collaborate on open source
